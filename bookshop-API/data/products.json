@@ -1,0 +1,20 @@
+[
+  {
+    "id": "d1a18660-a215-42e1-8b9b-7a51527b9581",
+    "title": "data",
+    "price": 0,
+    "quantity": 0
+  },
+  {
+    "id": "06f47828-3a3b-41d5-8caf-68099a4fe1c2",
+    "title": "algo",
+    "price": "200",
+    "quantity": "2"
+  },
+  {
+    "id": "ef14f74c-047a-4337-8c3e-8bcf0d5733fb",
+    "title": "data structure",
+    "price": "200",
+    "quantity": "2"
+  }
+]
