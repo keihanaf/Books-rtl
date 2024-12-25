@@ -49,11 +49,11 @@ Before setting up the frontend, ensure that you clone and run the backend projec
 
 1. **Clone the backend repository:**
    ```bash
-   git clone <backend-repo-url>
+   git clone <bookshop-api>
    ```
 2. **Navigate to the backend directory:**
    ```bash
-   cd backend-directory
+   cd bookshop-api
    ```
 3. **Install dependencies:**
    ```bash
